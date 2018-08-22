@@ -1,5 +1,5 @@
 # Plus-ou-moin
-Jeu du Plus ou moin ecrit en langage C
+Jeu du "Plus ou moin" ecrit en langage C
 
 Ce juste consiste à trouver un nombre tiré au hazard par le programme, avec plusieur niveau disponible ainsi qu'un mode multi joueur.
 
